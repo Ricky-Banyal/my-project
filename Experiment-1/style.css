@@ -1,0 +1,26 @@
+form{
+    background-color: aquamarine;
+    color: blue;
+    width: 200px;
+    height: 200px;
+    border: 5px solid burlywood;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+h1{
+    color: red;
+    font-style: italic;
+}
+input{
+    background-color:palegoldenrod;
+    display: flex;
+}
+button{
+    color: grey;
+}
+body{
+    padding: 50px;
+    margin: 50px;
+    display: flex;
+}
